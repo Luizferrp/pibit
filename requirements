@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+keras
+scikit-learn
+torch 
+torchvision 
+torchaudio
+ipykernel
+tensorflow
+seaborn
+tdqm
